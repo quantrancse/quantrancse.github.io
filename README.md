@@ -1,1 +1,1 @@
-# quantran
+# quantran.design
